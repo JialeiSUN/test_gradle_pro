@@ -5,7 +5,7 @@ package fun.test;
 
 public class App {
     public String getGreeting() {
-        return "Hello World!";
+        return "Bonjour le monde!";
     }
 
     public static void main(String[] args) {
